@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "festival": "demofringe",
+  "year": 2026,
+  "generatedAt": "2026-08-18T00:10:46.336Z",
+  "fullSnapshot": {
+    "url": "catalog-full-v1.sqlite.gz",
+    "sha256": "465a241bad679bfb8f5cff81dd7d1c0020aaf0665014493313857566ae31ad97",
+    "bytes": 4145217
+  },
+  "deltas": [],
+  "canonicalSha256": "59c0479fc24605da7cf77eff254db2082f68228d1e8cdcc7b22860e70e2bd6de",
+  "signature": "0oO1sLVM+fdHhLMwi85SjAsokNDvi0i2MSP6RBq3ucfAFod1BRpDTJpUTdpWyZ9QNP0TNkFZ47ksL1UFNRrnDA=="
+}
